@@ -1,5 +1,5 @@
 # Video-to-Audio-Converter
-A very simple program that converts audio files to video files. We will use a python library known as MoviePy.
+A very simple program that converts video files to audio files. We will use a python library known as MoviePy.
 
 MoviePy is a Python library for video editing: cutting, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects. 
 
